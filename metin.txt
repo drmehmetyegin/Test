@@ -1,0 +1,11 @@
+
+Hello World
+
+Nano editoru ile degisiklik yaptim
+
+Staging area dan working directory me alarak duzenlemeler yaptim
+
+Ikinci versiyonum icin duzenlemeler yapiyorum
+
+Git Hub repoma lokalimden push yapacagim
+
